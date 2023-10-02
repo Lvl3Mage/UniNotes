@@ -1,0 +1,5 @@
+- Natural numbers ($\mathbb{N}$): The counting numbers $\{1, 2, 3, ...\}$ are commonly called natural numbers; however, other definitions include 0, so that the non-negative integers $\{0, 1, 2, 3, ...\}$ are also called natural numbers. Natural numbers including 0 are also sometimes called _whole numbers_.
+- Integers ($\mathbb{Z}$): Positive and negative counting numbers, as well as zero: $\{..., −3, −2, −1, 0, 1, 2, 3, ...\}$.
+- Rational numbers ($\mathbb{Q}$): Numbers that can be expressed as a ratio of an integer to a non-zero integer. All integers are rational, but there are rational numbers that are not integers, such as $−2/9$.
+- Irrational numbers ($\mathbb{Q'}$): Real numbers that are not rational (cannot be expressed as an integer fraction).
+- Real numbers ($\mathbb{R}$): Numbers that correspond to points along a line. They can be positive, negative, or zero. Includes all above described sets of numbers. 
