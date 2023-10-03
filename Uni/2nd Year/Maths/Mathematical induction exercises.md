@@ -44,3 +44,40 @@ $$\exists \space A_n \text{ for k} => (HI)$$
 #### Induction step
 $$\text{if } A_{k+1} = A_k \space \cup \space {Sum(A_k)}$$
 $$Sum(A_k \space \cup \space {Sum(A_k)}) = 2\cdot Sum(A_k) \text{ which is } \dot{Sum(A_k)}$$
+# Strong induction
+
+### 1)
+$$\forall \space n \geq 24 \space \exists \space a,b \in \mathbb{N} \space where \space 7\cdot a + 5 \cdot b = n$$
+#### Base steps
+$24 = 7\cdot2 + 5\cdot2$
+$25 = 7\cdot0 + 5\cdot5$
+$26 = 7\cdot3 + 5\cdot1$
+$27 = 7\cdot1 + 5\cdot4$
+$28 = 7\cdot4 + 5\cdot0$
+$$\exists \space a,b\text{ for [24, 25, ..., k]} => (HI)$$
+#### Induction step
+$$\exists \space a,b \text{ for } k+1?$$
+$\text{ for } k+1-5 \space \exists \space a_{k+1-5},b_{k+1-5}$
+$k+1-5 = 7 \cdot a_{k+1-5} + 5 \cdot b_{k+1-5}$
+$$k+1 = 7\cdot a_{k+1-5} + 5 \cdot b_{k+1-5} + 5 =  7\cdot a_{k+1-5} + 5 \cdot (b_{k+1-5}+1)$$
+>[!tip] Short explanation
+>We calculate the numbers for the 5 cases proceeding 24 (itself included)
+>We go back 5 cases from the $k+1$ case and since that falls into our range (beacause $k \geq 28$) we know that the values of a and b exist.
+>Therefore we can go back to our $k+1$ case adding 5 to the $k+1-5$ case by substituting $b$ for $b+1$
+
+### 4) fibonacci
+$$a_1 = 1, a_2 = 1, a_n=a_{n-1} + a_{n-2}$$
+$$a_n \leq 2^n?$$
+$n=1$
+$a_1 = 1 \leq 2^1$
+$a_2 = 1 \leq 2^2$
+$a_3 = 2 \leq 2^3$
+$$a_n \leq 2^n \text{ for } n=1,2,3, ...,k$$
+#### Induction step
+$$a_{k+1}\leq2^{k+1}$$
+$$a_{k}(\leq 2^k)+a_{k-1}(\leq 2^{k-1})\leq2^{k}+2^{k-1}\leq 2^{k+1}$$
+$$2^{k}+2^{k-1}\leq 2^{k+1}$$
+Dividing everything by $2^{k-1}$
+$$2+1\leq 2^2$$
+$$3\leq 4$$
+

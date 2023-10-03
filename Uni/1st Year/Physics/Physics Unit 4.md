@@ -82,7 +82,7 @@ $$\tau = I * \alpha$$
 
 When talking about an object that presents this type of movement we can assume that any point on it presets a velocity that can be expressed as a sum of 2 vectors. One vector being the object's COM velocity and the other being the rotational velocity of that point. The following diagram demonstrates this in an intuitive way:
 
-![[Pasted image 20230512093952.png|500]]
+![[RollingMotion.png|500]]
 
 
 

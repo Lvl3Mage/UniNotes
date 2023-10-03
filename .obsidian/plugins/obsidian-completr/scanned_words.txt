@@ -736,6 +736,7 @@ pointers
 programming
 perform
 performance
+proceeding
 tags
 to
 the
@@ -1399,6 +1400,8 @@ Singly
 Strong
 Superiormente
 Subtracting
+Similarly
+Short
 EXCALIDRAW
 Elements
 Explanation
@@ -3211,6 +3214,7 @@ minimums
 manipulate
 moves
 makes
+meets
 of
 order
 one
@@ -3559,6 +3563,8 @@ operations
 operator
 old
 optimal
+obsidian
+our
 document
 default
 df
@@ -4895,6 +4901,11 @@ sucesion
 smallest
 selection
 suffers
+simply
+serve
+serves
+steps
+substituting
 Text
 The
 To
@@ -5212,6 +5223,7 @@ TDT
 THF
 TkX
 Talk
+Therefore
 javascript
 jump
 joined
@@ -5892,6 +5904,7 @@ crucial
 closely
 callbacks
 copied
+conditions
 animation
 as
 and
@@ -6275,6 +6288,7 @@ arithmetic
 advances
 adding
 amortized
+although
 Javascript
 JQ
 JT
@@ -6910,6 +6924,7 @@ wsg
 wkW
 wEc
 weak
+workspace
 you
 yet
 your
@@ -8113,6 +8128,7 @@ bounds
 bound
 belongs
 back
+beacause
 has
 have
 higher
@@ -9432,6 +9448,7 @@ follows
 fundamental
 functions
 fairly
+frac
 understand
 undebrstand
 usually
@@ -11278,6 +11295,7 @@ returned
 reliably
 resize
 referred
+range
 layers
 layer
 looks
@@ -11569,6 +11587,7 @@ list
 last
 lower
 language
+largest
 As
 Audiacity
 AlpacaProj

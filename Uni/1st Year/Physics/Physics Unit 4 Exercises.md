@@ -30,7 +30,7 @@ You can then divide the sum by the total mass that has the value of the mass of 
 ### Ex3
 Un proyectil se lanza al aire desde el nivel del suelo y debería aterrizar a 55 m. Sin embargo en el punto más alto de su trayectoria explota en dos fragmentos de igual masa. Justo después de la explosión, uno de los fragmentos tiene velocidad instantánea cero y cae directamente al suelo. ¿Dónde cae el otro fragmento? Despreciar la resistencia del aire.
 
-![[Pasted image 20230331091116.png]]
+![[COMParabolicMotion.png]]
 
 $m_{1} = m_{2} = m$
 $x_{CoM} = \frac{mx_{1} + mx_{2}}{2m}$

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/2nd Year/Algoritmos/Unit 2 - Introduction to node-based data structures.md",
+                "file": "Uni/2nd Year/Maths/Mathematical induction exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/2nd Year/Algoritmos/Unit 2 - Introduction to node-based data structures.md",
+                "file": "Uni/2nd Year/Maths/Mathematical induction exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/2nd Year/Algoritmos/Unit 2 - Introduction to node-based data structures.md"
+                "file": "Uni/2nd Year/Maths/Mathematical induction exercises.md"
               }
             }
           }
@@ -125,41 +125,43 @@
   },
   "active": "26a43dc0026362c9",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "Uni/2nd Year/Algoritmos/Unit 1 - Algorithm Analysis.md",
-    "Uni/2nd Year/Algoritmos/Pointers in C++.md",
+    "Uni/2nd Year/Maths/Sequence exercises.md",
+    "Uni/2nd Year/Introduction.md",
+    "Uni/2nd Year/Maths/Mathematical induction exercises.md",
+    "Uni/2nd Year/Maths/Mathematical induction.md",
+    "Uni/2nd Year/Maths/Sequences.md",
     "Uni/1st Year/TECO/Semiconductors.md",
+    "Uni/2nd Year/Algoritmos/Unit 1 - Algorithm Analysis.md",
+    "Uni/2nd Year/Algoritmos/Unit 2 - Introduction to node-based data structures.md",
+    "Uni/2nd Year/Algoritmos/Pointers in C++.md",
+    "Uni/2nd Year/Empresas/Unit 1.md",
+    "Uni/2nd Year/Empresas/Unit 2.md",
     "Uni/1st Year/TECO/Ohm's Law.md",
-    "Uni/1st Year/TECO/TECO.md",
-    "Pasted image 20230512093952.png",
-    "Pasted image 20230331091116.png",
-    "Uni/1st Year/Physics/Physics Unit 4 Exercises.md",
-    "Pasted image 20230331091114.png",
+    "Uni/1st Year/Physics/Physics Unit 5.md",
     "Uni/1st Year/Physics/Physics Unit 4.md",
+    "Uni/1st Year/Physics/media/PhysUnit4Ex1.png",
+    "Uni/1st Year/Physics/Physics Unit 4 Exercises.md",
+    "Uni/1st Year/Physics/media",
+    "Uni/1st Year/Physics/media/COMParabolicMotion.png",
+    "New Text Document.txt",
+    "Uni/1st Year/TECO/TECO.md",
+    "Uni/1st Year/Physics/media/RollingMotion.png",
+    "Pasted image 20230331091114.png",
     "AssemblyA.png",
     "!info.md",
-    "PhysUnit4Ex1.png",
-    "Uni/2nd Year/Algoritmos/Unit 2 - Introduction to node-based data structures.md",
     "Notes/Uni/Untitled",
-    "Uni/2nd Year/Empresas/Unit 1.md",
     "Uni/2nd Year/Consolas/Unit 2.md",
-    "Uni/1st Year/Physics/Physics Unit 5.md",
-    "Uni/2nd Year/Maths/Mathematical induction.md",
     "Uni/2nd Year/Algoritmos/media/StackRemove.excalidraw.md",
     "Untitled 1.canvas",
-    "Uni/2nd Year/Maths/Mathematical induction exercises.md",
     "Uni/2nd Year/Maths/Number sets.md",
     "Uni/2nd Year/Algoritmos/media/LinkedList.excalidraw.svg",
     "Uni/2nd Year/Algoritmos/media/LinkedList.excalidraw.md",
-    "Uni/2nd Year/Maths/Sequences.md",
     "Uni/2nd Year/Maths/Info.md",
     "Uni/2nd Year/Maths/Math notation.md",
-    "Uni/2nd Year/Empresas/Unit 2.md",
     "Uni/2nd Year/Algoritmos/media/StackRemove.excalidraw.svg",
     "Uni/2nd Year/Algoritmos/media/StackAdd.excalidraw.md",
     "Uni/2nd Year/Algoritmos/media/Stack.excalidraw.md",
     "Uni/2nd Year/Algoritmos/media/QueueRemove.excalidraw.md",
-    "Uni/2nd Year/Algoritmos/media/QueueAdd.excalidraw.md",
     "Uni/2nd Year/Algoritmos/media/QueueRemove.excalidraw.svg",
     "Uni/2nd Year/Algoritmos/media/QueueAdd.excalidraw.svg",
     "Uni/2nd Year/Algoritmos/media/Queue.excalidraw.svg",
@@ -170,8 +172,6 @@
     "Uni/2nd Year/Empresas",
     "Uni/2nd Year/Algoritmos",
     "Uni/2nd Year",
-    "Uni/1st Year",
-    "Uni/1st Year/Physics",
     "Untitled.canvas"
   ]
 }
