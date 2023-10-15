@@ -18,11 +18,13 @@ $$4^1 \cdot 4^k - 1$$
 $$(3+1)\cdot4^k - 1$$
 $$3\cdot4^k + 4^k - 1$$
 We've already assumed that $4^k - 1 \space is \space \dot{3}$ is true and $3\cdot4^k \space is \space \dot{3}$ is also true so $3\cdot4^k + 4^k - 1$ must be true.
+[[Mathematical induction exercises#2)]]
 # Complete/Strong induction
 Strong induction differentiates itself from weak induction by assuming that the statement $P(n)$ is true for **all** values before n.
 
 $P(n) \text{ statement for } n \in \mathbb{N}$
 $\text{If } P(n) \text{ is true for } n=1 \text{ or other}$
 $\text{If we assume }  P(n) \text{ is true for } n=1,2,...,k \text{ is P(n) true for n=k+1?}$
+[[Mathematical induction exercises#4)Fibonacci]]
 ## Example
 #todo add example

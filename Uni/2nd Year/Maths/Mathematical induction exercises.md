@@ -65,7 +65,7 @@ $$k+1 = 7\cdot a_{k+1-5} + 5 \cdot b_{k+1-5} + 5 =  7\cdot a_{k+1-5} + 5 \cdot (
 >We go back 5 cases from the $k+1$ case and since that falls into our range (beacause $k \geq 28$) we know that the values of a and b exist.
 >Therefore we can go back to our $k+1$ case adding 5 to the $k+1-5$ case by substituting $b$ for $b+1$
 
-### 4) fibonacci
+### 4)Fibonacci
 $$a_1 = 1, a_2 = 1, a_n=a_{n-1} + a_{n-2}$$
 $$a_n \leq 2^n?$$
 $n=1$

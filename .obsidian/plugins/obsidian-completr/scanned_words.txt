@@ -337,6 +337,7 @@ enters
 exists
 edges
 exist
+everything
 plugin
 parsed
 passes
@@ -737,6 +738,7 @@ programming
 perform
 performance
 proceeding
+priniciple
 tags
 to
 the
@@ -1087,6 +1089,8 @@ tyd
 typical
 tasks
 tot
+trees
+tree
 Switch
 Semiconductors
 Saturation
@@ -1402,6 +1406,11 @@ Superiormente
 Subtracting
 Similarly
 Short
+Sorted
+Search
+Square
+Sandwich
+Stoltz
 EXCALIDRAW
 Elements
 Explanation
@@ -1971,6 +1980,7 @@ VOX
 VWImJbx
 VUoi
 Variable
+Vector
 in
 idea
 inside
@@ -2280,6 +2290,10 @@ implementation
 implement
 initialize
 implementing
+insertion
+infty
+impact
+inequality
 MORE
 Morning
 Most
@@ -3215,6 +3229,10 @@ manipulate
 moves
 makes
 meets
+mathcal
+mathbb
+monotone
+matters
 of
 order
 one
@@ -3923,6 +3941,9 @@ dynamically
 deallocate
 double
 describes
+dictionary
+description
+displaystyle
 Drawing
 Direct
 Download
@@ -4215,6 +4236,7 @@ DCY
 DhZY
 Declaring
 Dereferencing
+Dividing
 Pretty
 PN
 PD
@@ -4906,6 +4928,10 @@ serve
 serves
 steps
 substituting
+shrinking
+sqrt
+subsequence
+selected
 Text
 The
 To
@@ -5224,6 +5250,7 @@ THF
 TkX
 Talk
 Therefore
+Tree
 javascript
 jump
 joined
@@ -5905,6 +5932,9 @@ closely
 callbacks
 copied
 conditions
+child
+cdot
+characteristic
 animation
 as
 and
@@ -6289,6 +6319,8 @@ advances
 adding
 amortized
 although
+actual
+another
 Javascript
 JQ
 JT
@@ -6925,6 +6957,7 @@ wkW
 wEc
 weak
 workspace
+whether
 you
 yet
 your
@@ -7782,6 +7815,7 @@ CvL
 CsjvMIOc
 CFuNouda
 Complete
+Ceiling
 button
 be
 behaves
@@ -8129,6 +8163,7 @@ bound
 belongs
 back
 beacause
+binary
 has
 have
 higher
@@ -8746,6 +8781,8 @@ RkM
 RHJ
 RAJJ
 Resizable
+Remove
+Removing
 growing
 general
 gap
@@ -9073,6 +9110,8 @@ gAA
 gAJ
 gYN
 gjJ
+geq
+greater
 from
 flow
 flowing
@@ -9449,6 +9488,8 @@ fundamental
 functions
 fairly
 frac
+fibonacci
+forall
 understand
 undebrstand
 usually
@@ -10072,6 +10113,7 @@ LBf
 LIFO
 LkXoXSHW
 Lower
+List
 QaOZBvRc
 Qw
 Qu
@@ -10663,6 +10705,8 @@ Izp
 IkQjXRm
 Introduction
 Initializing
+Implementing
+Insert
 You
 YVcoPe
 Yu
@@ -11296,6 +11340,9 @@ reliably
 resize
 referred
 range
+replace
+right
+root
 layers
 layer
 looks
@@ -11588,6 +11635,9 @@ last
 lower
 language
 largest
+log
+leq
+lim
 As
 Audiacity
 AlpacaProj
@@ -11923,6 +11973,8 @@ Acotacion
 Arithmetic
 Adding
 Allocation
+Action
+AVL
 Now
 NPN
 Node
@@ -12229,6 +12281,7 @@ NnV
 NyF
 NqepJzpI
 Null
+Not
 quite
 que
 qyBxGrMC
@@ -12500,6 +12553,7 @@ qbF
 qXfHV
 qqddd
 queue
+qualifies
 not
 need
 note
@@ -13948,6 +14002,7 @@ BVM
 BDT
 BFb
 Bounding
+Binary
 Github
 Games
 Game
@@ -14884,6 +14939,7 @@ FZXszGLR
 FIFO
 FET
 Functions
+Fibonacci
 Knight
 KSP
 Kv
@@ -16390,6 +16446,7 @@ kXe
 kFed
 kwI
 keyword
+key
 ÄuB
 ÖO
 Öz
