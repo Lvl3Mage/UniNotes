@@ -338,6 +338,11 @@ exists
 edges
 exist
 everything
+eFehX
+easy
+efficient
+ensures
+exercises
 plugin
 parsed
 passes
@@ -739,6 +744,11 @@ perform
 performance
 proceeding
 priniciple
+pqPCdZmr
+parent
+pou
+particular
+properties
 tags
 to
 the
@@ -1091,6 +1101,9 @@ tasks
 tot
 trees
 tree
+tBNmW
+tLOqs
+three
 Switch
 Semiconductors
 Saturation
@@ -1411,6 +1424,9 @@ Search
 Square
 Sandwich
 Stoltz
+SqLTKF
+SiA
+Simple
 EXCALIDRAW
 Elements
 Explanation
@@ -1684,6 +1700,7 @@ Etd
 EU
 Element
 Existing
+Each
 VIEW
 Voltage
 Viewer
@@ -1981,6 +1998,7 @@ VWImJbx
 VUoi
 Variable
 Vector
+VUxeTl
 in
 idea
 inside
@@ -2294,6 +2312,8 @@ insertion
 infty
 impact
 inequality
+iBk
+iVVl
 MORE
 Morning
 Most
@@ -3233,6 +3253,9 @@ mathcal
 mathbb
 monotone
 matters
+mEWd
+may
+maintained
 of
 order
 one
@@ -3583,6 +3606,12 @@ old
 optimal
 obsidian
 our
+orcF
+oOdY
+ohQUkkS
+organized
+own
+ordering
 document
 default
 df
@@ -3944,6 +3973,8 @@ describes
 dictionary
 description
 displaystyle
+designated
+deleted
 Drawing
 Direct
 Download
@@ -4237,6 +4268,9 @@ DhZY
 Declaring
 Dereferencing
 Dividing
+DDixfwTE
+DEfYGf
+DkECT
 Pretty
 PN
 PD
@@ -4932,6 +4966,10 @@ shrinking
 sqrt
 subsequence
 selected
+suitable
+searches
+searching
+subtree
 Text
 The
 To
@@ -5530,6 +5568,9 @@ jPM
 jvi
 jGG
 jqoMq
+jXV
+jAY
+jLm
 css
 coordinates
 clicked
@@ -5935,6 +5976,12 @@ conditions
 child
 cdot
 characteristic
+contain
+children
+connected
+contains
+constraint
+criteria
 animation
 as
 and
@@ -6321,6 +6368,9 @@ amortized
 although
 actual
 another
+aYCzm
+adjusted
+accordingly
 Javascript
 JQ
 JT
@@ -6597,6 +6647,8 @@ JAj
 JVh
 JTU
 JOT
+JjuezUQw
+JGXz
 where
 with
 when
@@ -6958,6 +7010,7 @@ wEc
 weak
 workspace
 whether
+ways
 you
 yet
 your
@@ -7535,6 +7588,10 @@ vPwnjD
 various
 vAfo
 video
+vQrIq
+vcN
+vQw
+vTgS
 CSS
 Collector
 Cut
@@ -7816,6 +7873,10 @@ CsjvMIOc
 CFuNouda
 Complete
 Ceiling
+CYwuGzjV
+Children
+CDGLVgqy
+Can
 button
 be
 behaves
@@ -8164,6 +8225,7 @@ belongs
 back
 beacause
 binary
+branching
 has
 have
 higher
@@ -8458,6 +8520,8 @@ heu
 hAX
 hjT
 hVv
+hKQ
+hierarchical
 Result
 Resistance
 Regular
@@ -8783,6 +8847,9 @@ RAJJ
 Resizable
 Remove
 Removing
+Right
+RPrqQteU
+Replace
 growing
 general
 gap
@@ -9490,6 +9557,8 @@ fairly
 frac
 fibonacci
 forall
+fqvldUYv
+further
 understand
 undebrstand
 usually
@@ -10114,6 +10183,9 @@ LIFO
 LkXoXSHW
 Lower
 List
+Left
+Lthzi
+Limit
 QaOZBvRc
 Qw
 Qu
@@ -10390,6 +10462,7 @@ QdH
 QUR
 QbE
 QoF
+QQEtp
 Intensity
 In
 Instead
@@ -10990,6 +11063,8 @@ YEV
 YEl
 YWE
 YMTM
+YTeiuRt
+YvH
 related
 radius
 regular
@@ -11343,6 +11418,10 @@ range
 replace
 right
 root
+relationship
+retrieval
+replaced
+resolved
 layers
 layer
 looks
@@ -11638,6 +11717,9 @@ largest
 log
 leq
 lim
+lDbcN
+larger
+link
 As
 Audiacity
 AlpacaProj
@@ -11975,6 +12057,7 @@ Adding
 Allocation
 Action
 AVL
+AGgyxs
 Now
 NPN
 Node
@@ -12554,6 +12637,7 @@ qXfHV
 qqddd
 queue
 qualifies
+qcQNGEaW
 not
 need
 note
@@ -13168,6 +13252,7 @@ WxY
 WxWg
 WRAvOGsc
 Where
+WDs
 zone
 zFM
 zP
@@ -13463,6 +13548,8 @@ zT
 znbf
 zFh
 zzzpp
+zjKbc
+zAFKZGfr
 Here
 Handbrake
 Hosting
@@ -13724,6 +13811,9 @@ HHH
 HHSJJ
 Hyd
 Help
+HChlUO
+HUrIalge
+HjVRMDRR
 Base
 Block
 Backup
@@ -14003,6 +14093,8 @@ BDT
 BFb
 Bounding
 Binary
+BST
+Basic
 Github
 Games
 Game
@@ -14302,6 +14394,8 @@ GfiN
 GSU
 General
 GplSCE
+GmJ
+GUeOcMJj
 Unity
 Uc
 Uf
@@ -14632,6 +14726,7 @@ ULW
 UmX
 Upper
 Understanding
+UBwiqffJ
 Factorio
 FA
 Fyr
@@ -14940,6 +15035,8 @@ FIFO
 FET
 Functions
 Fibonacci
+FLik
+Find
 Knight
 KSP
 Kv
@@ -15837,6 +15934,9 @@ Xsm
 XhF
 Xiy
 XRf
+XZd
+Xcuj
+XQs
 xv
 xu
 xp
@@ -16133,6 +16233,8 @@ xIt
 xQG
 xom
 xmQWsgv
+xIv
+xODNGBO
 kZQ
 kwb
 kB
@@ -16447,6 +16549,7 @@ kFed
 kwI
 keyword
 key
+kMvn
 ÄuB
 ÖO
 Öz
