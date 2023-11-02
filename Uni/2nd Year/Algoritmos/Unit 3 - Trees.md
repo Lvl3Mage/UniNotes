@@ -16,6 +16,7 @@ Binary trees are a type of tree where each node can have a maximum of two childr
 ![[BinaryTree.excalidraw.svg|700]]
 #### Binary search trees
 A binary search tree (BST) is a specific type of binary tree where each node follows a particular order or relationship with its children. In a BST, the left child of a node contains elements that are smaller than the node itself, while the right child contains elements that are larger. This ordering property allows for efficient searching and retrieval of elements within the tree.
+![[BinarySearchTree.excalidraw.svg|700]]
 
 **Removing elements from a BST can be done in three ways:**
 
@@ -28,3 +29,25 @@ A binary search tree (BST) is a specific type of binary tree where each node fol
 >![[BinaryTreeRemove3B.excalidraw.svg]]
 #### AVL trees
 #todo understand the algorithm
+AVL trees are binary trees that balance themselves. In AVL trees the height of nodes on the right and left is *roughly equal*. 
+
+>[!important] The AVL tree rule
+>**All** nodes in AVL trees follow the following principle: The difference between the height of the left subtree and the left subtree has to be between 1 and -1. This difference is often referred to as the **balance factor**.
+>![[AVLTreeBalance1.excalidraw.svg|600]]
+>![[AVLTreeBalance2.excalidraw.svg|600]]
+
+##### AVL Tree rotation
+>[!info] Left rotation
+>![[leftRotation.gif]]
+
+>[!info] Right rotation
+>![[rightRotation.gif]]
+
+#todo add rotation cases from photo
+
+
+## Iterating over trees
+#todo add costs from photo 
+#explanation recursive functions occupy more space cuz they have their variables stored in stacks 
+
+## Huffman algorithm

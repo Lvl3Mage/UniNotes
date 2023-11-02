@@ -54,7 +54,7 @@ or
 - $b_n$ is growing and $\lim b_n = +\infty$
 ${\displaystyle \lim _{n\to \infty }{\frac {a_{n+1}-a_{n}}{b_{n+1}-b_{n}}}=l }$
 ### Square root principle
-If a $\displaystyle \lim_{n\to \infty } \sqrt[n]{a_n}$ is not determined ($a_n\geq 0$), but $\displaystyle \lim_{n\to \infty } \frac{a_{n+1}}{a_n} = l(n^2 \space real \space 0+\infty)$ exists. Then $\displaystyle \lim_{n\to \infty } \sqrt[n]{a_n} = l$ also exists.
+If a $\displaystyle \lim_{n\to \infty } \sqrt[n]{a_n}$ is not determined ($a_n\geq 0$), but $\displaystyle \lim_{n\to \infty } \frac{a_{n+1}}{a_n} = l(n^2 \space real \space 0+\infty)$ exists, then $\displaystyle \lim_{n\to \infty } \sqrt[n]{a_n} = l$ also exists.
 Ex [[Sequence exercises#Square root priniciple]]
 
 ### Sandwich principle
