@@ -351,6 +351,8 @@ efficiently
 extract
 ensure
 essential
+expressing
+error
 plugin
 parsed
 passes
@@ -770,6 +772,12 @@ priorities
 performing
 potentially
 performed
+picking
+polynomial
+progressively
+polynomials
+plane
+plate
 tags
 to
 the
@@ -1133,6 +1141,11 @@ tsbeqa
 tnQ
 top
 transformed
+trivial
+thing
+taylor
+taking
+takes
 Switch
 Semiconductors
 Saturation
@@ -1465,6 +1478,8 @@ Sink
 Swap
 Start
 Sinking
+Second
+Simplifying
 EXCALIDRAW
 Elements
 Explanation
@@ -2364,6 +2379,8 @@ itZZhWtA
 iRBz
 indexing
 involves
+insert
+idk
 MORE
 Morning
 Most
@@ -3321,6 +3338,10 @@ moved
 maintains
 middle
 moving
+merge
+merging
+maximize
+matrix
 of
 order
 one
@@ -4051,6 +4072,13 @@ diverge
 dED
 division
 discuss
+derivative
+derivatives
+degrees
+degree
+desmos
+denoted
+derive
 Drawing
 Direct
 Download
@@ -4350,6 +4378,9 @@ DkECT
 DARaIEqw
 DDb
 Down
+Derivative
+Derivatives
+Double
 Pretty
 PN
 PD
@@ -4645,6 +4676,7 @@ PdA
 PfDvLX
 Prev
 Pointers
+Partial
 self
 script
 sd
@@ -5061,6 +5093,11 @@ swap
 satisfies
 starts
 swapping
+splitting
+selecting
+slope
+sine
+sample
 Text
 The
 To
@@ -5380,6 +5417,10 @@ TkX
 Talk
 Therefore
 Tree
+Taylor
+Taylors
+Third
+Tangent
 javascript
 jump
 joined
@@ -6089,6 +6130,9 @@ continue
 critical
 convert
 comparing
+centered
+compose
+curvature
 animation
 as
 and
@@ -6480,6 +6524,13 @@ adjusted
 accordingly
 adjust
 appropriate
+aka
+adjacent
+advantage
+approximate
+approximating
+approximation
+applies
 Javascript
 JQ
 JT
@@ -7126,6 +7177,7 @@ ways
 written
 wietRO
 wmdBcnzi
+were
 you
 yet
 your
@@ -7709,6 +7761,7 @@ vQrIq
 vcN
 vQw
 vTgS
+view
 CSS
 Collector
 Cut
@@ -8660,6 +8713,8 @@ highest
 heapifying
 heapify
 half
+halves
+hessian
 Result
 Resistance
 Regular
@@ -9323,6 +9378,8 @@ greater
 gvT
 gathered
 gives
+generic
+gradient
 from
 flow
 flowing
@@ -9706,6 +9763,8 @@ further
 faPAJ
 follow
 followed
+field
+fucking
 understand
 undebrstand
 usually
@@ -10042,6 +10101,7 @@ uLwyiW
 upper
 useful
 uos
+understood
 Law
 Login
 Library
@@ -10336,6 +10396,7 @@ Lthzi
 Limit
 LLXLCPN
 Leibniz
+Lagrange
 QaOZBvRc
 Qw
 Qu
@@ -11586,6 +11647,8 @@ retrieved
 removing
 replacing
 repeat
+rate
+rewrite
 layers
 layer
 looks
@@ -11885,6 +11948,8 @@ lDbcN
 larger
 link
 lowest
+length
+let
 As
 Audiacity
 AlpacaProj
@@ -13131,6 +13196,8 @@ nma
 navigation
 now
 newly
+near
+normalized
 When
 What
 WORK
@@ -14000,6 +14067,8 @@ HkkJ
 Heap
 Heapify
 Heapifying
+How
+Hessian
 Base
 Block
 Backup
@@ -15233,6 +15302,7 @@ Fibonacci
 FLik
 Find
 Fhq
+Fourth
 Knight
 KSP
 Kv
@@ -16751,6 +16821,7 @@ kMvn
 kzOh
 kvTW
 kyfWtuoB
+keep
 ÄuB
 ÖO
 Öz

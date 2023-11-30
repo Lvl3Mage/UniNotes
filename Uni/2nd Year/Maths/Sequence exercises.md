@@ -71,5 +71,5 @@ $\displaystyle \lim_{n \to \infty}{\frac{cos(3^n)}{2n^2 + 4n + 5}}$
 Sandwich criteria
 
 $\displaystyle \lim_{n \to \infty}{\frac{-1}{2n^2 + 4n + 5}} \leq  \lim_{n \to \infty}{\frac{cos(3^n)}{2n^2 + 4n + 5}} \leq  \lim_{n \to \infty}{\frac{1}{2n^2 + 4n + 5}}$
-$0 \leq \frac{cos(3^n)}{2n^2 + 4n + 5} \leq 0$
+$0 \leq \displaystyle \lim_{n \to \infty} \frac{cos(3^n)}{2n^2 + 4n + 5} \leq 0$
 Thus $\displaystyle \lim_{n \to \infty}{\frac{cos(3^n)}{2n^2 + 4n + 5}} = 0$ 

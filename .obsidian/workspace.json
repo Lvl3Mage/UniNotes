@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/2nd Year/Algoritmos/Merge sort.md",
+                "file": "Uni/2nd Year/Maths/Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/2nd Year/Algoritmos/Merge sort.md",
+                "file": "Uni/2nd Year/Maths/Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/2nd Year/Algoritmos/Merge sort.md"
+                "file": "Uni/2nd Year/Maths/Series.md"
               }
             }
           }
@@ -126,30 +126,34 @@
   },
   "active": "3d7f970a1e89f088",
   "lastOpenFiles": [
+    "Uni/2nd Year/Maths/Taylor Polynomial Exercises.md",
+    "Uni/2nd Year/Maths/Series.md",
+    "Uni/2nd Year/Maths/Sequences.md",
+    "Uni/2nd Year/Maths/One variable functions.md",
+    "Uni/2nd Year/Maths/Sequence exercises.md",
+    "Uni/2nd Year/Maths/2 Variable functions.md",
     "Uni/2nd Year/Algoritmos/Master Theorem.md",
-    "Uni/2nd Year/Algoritmos/Merge sort.md",
+    "Uni/1st Year/TECO/TECO.md",
+    "Uni/2nd Year/Algoritmos/Pointers in C++.md",
+    "Uni/2nd Year/Algoritmos/Unit 1 - Algorithm Analysis.md",
+    "Uni/2nd Year/Algoritmos/Unit 2 - Introduction to node-based data structures.md",
     "Uni/2nd Year/Algoritmos/Unit 3 - Trees.md",
+    "Uni/2nd Year/Algoritmos/Merge sort.md",
     "Uni/2nd Year/Algoritmos/media/MasterTheorem.png",
     "Uni/2nd Year/Algoritmos/media/addToHeap.gif",
     "Uni/2nd Year/Algoritmos/media/maxHeapTopDel.gif",
     "Uni/2nd Year/Algoritmos/media/rightRotation.gif",
     "Uni/2nd Year/Algoritmos/media/leftRotation.gif",
-    "Uni/2nd Year/Maths/Series.md",
     "Uni/2nd Year/Algoritmos/media/AVLTreeBalance2.excalidraw.md",
     "Uni/2nd Year/Algoritmos/media/AVLTreeBalance2.excalidraw.svg",
     "Uni/2nd Year/Algoritmos/media/AVLTreeBalance1.excalidraw.md",
     "Uni/2nd Year/Algoritmos/media/AVLTreeBalance1.excalidraw.svg",
     "Uni/1st Year/Physics/Physics Unit 5.md",
-    "Uni/2nd Year/Maths/Sequences.md",
-    "Uni/2nd Year/Algoritmos/Pointers in C++.md",
     "Uni/2nd Year/Maths/Mathematical induction exercises.md",
-    "Uni/2nd Year/Maths/Sequence exercises.md",
     "Uni/2nd Year/Maths/Number sets.md",
     "Uni/2nd Year/Maths/Mathematical induction.md",
     "Uni/2nd Year/Algoritmos/media/AVLTreeBalance0.excalidraw.md",
     "Uni/2nd Year/Algoritmos/media/BinarySearchTree.excalidraw.md",
-    "Uni/2nd Year/Algoritmos/Unit 1 - Algorithm Analysis.md",
-    "Uni/2nd Year/Algoritmos/Unit 2 - Introduction to node-based data structures.md",
     "Uni/2nd Year/Algoritmos/media/BinarySearchTree.excalidraw.svg",
     "Uni/2nd Year/Algoritmos/media/BinaryTree.excalidraw.md",
     "Uni/2nd Year/Algoritmos/media/BinaryTree.excalidraw.svg",
@@ -158,10 +162,6 @@
     "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove1.excalidraw.md",
     "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3B.excalidraw.md",
     "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove2.excalidraw.md",
-    "Uni/2nd Year/Algoritmos/media/QueueAdd.excalidraw.md",
-    "Uni/2nd Year/Algoritmos/media/LinkedList.excalidraw.md",
-    "Uni/2nd Year/Algoritmos/media/NodeTree.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-16 16.41.33.excalidraw.md",
     "Uni/1st Year/Physics/media",
     "New Text Document.txt",
     "Notes/Uni/Untitled",
