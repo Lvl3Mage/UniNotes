@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/2nd Year/Maths/Series.md",
+                "file": "Uni/2nd Year/Maths/Taylor Polynomial Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/2nd Year/Maths/Series.md",
+                "file": "Uni/2nd Year/Maths/Taylor Polynomial Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/2nd Year/Maths/Series.md"
+                "file": "Uni/2nd Year/Maths/Taylor Polynomial Exercises.md"
               }
             }
           }
@@ -126,10 +126,10 @@
   },
   "active": "3d7f970a1e89f088",
   "lastOpenFiles": [
-    "Uni/2nd Year/Maths/Taylor Polynomial Exercises.md",
     "Uni/2nd Year/Maths/Series.md",
-    "Uni/2nd Year/Maths/Sequences.md",
     "Uni/2nd Year/Maths/One variable functions.md",
+    "Uni/2nd Year/Maths/Taylor Polynomial Exercises.md",
+    "Uni/2nd Year/Maths/Sequences.md",
     "Uni/2nd Year/Maths/Sequence exercises.md",
     "Uni/2nd Year/Maths/2 Variable functions.md",
     "Uni/2nd Year/Algoritmos/Master Theorem.md",

@@ -4079,6 +4079,7 @@ degree
 desmos
 denoted
 derive
+drop
 Drawing
 Direct
 Download
@@ -4381,6 +4382,7 @@ Down
 Derivative
 Derivatives
 Double
+Divergent
 Pretty
 PN
 PD
@@ -5098,6 +5100,7 @@ selecting
 slope
 sine
 sample
+seem
 Text
 The
 To
@@ -6133,6 +6136,8 @@ comparing
 centered
 compose
 curvature
+certain
+character
 animation
 as
 and
@@ -6531,6 +6536,8 @@ approximate
 approximating
 approximation
 applies
+actually
+after
 Javascript
 JQ
 JT
@@ -8054,6 +8061,8 @@ Consider
 Completeness
 Create
 Continue
+Cases
+Convergent
 button
 be
 behaves
@@ -8409,6 +8418,7 @@ building
 bubbled
 bubble
 beginning
+beneath
 has
 have
 higher
@@ -9380,6 +9390,7 @@ gathered
 gives
 generic
 gradient
+geometric
 from
 flow
 flowing
@@ -14069,6 +14080,7 @@ Heapify
 Heapifying
 How
 Hessian
+Hidden
 Base
 Block
 Backup

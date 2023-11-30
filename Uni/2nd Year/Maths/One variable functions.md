@@ -8,7 +8,7 @@ All of these are different ways of expressing the same thing.
 
 >[!info] The tangent of a function
 >The tangent line of a function $f(x)$ at a point $a$ can be calculated as:
->$$y=f(a) + f'(a)(x-1)$$
+>$$y=f(a) + f'(a)(x-a)$$
 
 ## Taylor polynomial
 The taylor  polynomial is a series of sums of the derivatives of a function $f(x)$ that can be used to approximate this function.
