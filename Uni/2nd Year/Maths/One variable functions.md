@@ -1,4 +1,4 @@
-## Derivative
+   ## Derivative
 Consider a 1 variable function $y = f(x)$
 The derivative of this function $f'(x)$ can be understood as several things:
 - The slope of a tangent line at point $x$.
@@ -68,5 +68,19 @@ P_{4,0}(x) = x - \frac{x^3}{6} + \frac{x^4}{24}
 $$
 # Lagrange error bound
 
-$$Error = |\frac{f^{n+1}(c)}{(n+1)!}(x-a)^{n+1}|$$ $c$ being the value between $x$ and $a$
-#todo you basically maximize the term with c in it idk
+$$Error = |\frac{f^{n+1}(c)}{(n+1)!}(x-a)^{n+1}|$$ $c$ being the value between $x$ (the sampling point) and $a$ (the point the polynomial is centered around)
+#todo you basically make choices that maximize the term aka choose the c value that makes the error bigger and replace all sine and cosines with 1 etc.
+# Convergence radius
+Given a series in the form of $$\displaystyle S(x) = \sum^{\infty}_{n=1} a_n(x-c)^n$$
+where $a_n$ is a **general term** of a sequence, $c$ is a value which is the **convergence center** around which we'll place the radius and $x$ is a **variable** that changes in value changing whether the series converges or not.
+We can calculate the convergence radius $R$ with either:
+- $R = \frac{1}{\limsup \sqrt[n]{|a_n|}}$
+- $R = \frac{1}{\limsup \frac{|a_{n+1}|}{|a_n|}} = \limsup \frac{|a_n|}{|a_{n+1}|}$
+>[!attention] 
+>When calculating the radius $\frac{1}{0} = +\infty$ and $\frac{1}{+\infty} = 0$
+
+## Cases based on radius values
+1. When $R = 0$ the series only converges at $x = c$
+2. When $0\lt R \lt +\infty$ the series converges in the area $c-R \lt x \lt c+R$
+	The cases where $x = c-R$ or $x = c+R$ need to be studied separately to see if they converge or not
+3. When $R = +\infty$ the series converges at $x \in \mathbb{R}$ 
