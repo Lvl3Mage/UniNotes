@@ -16,11 +16,11 @@ The same applies for the y axis which is denoted as: $\frac{\partial f}{\partial
 
 ## The function gradient
 The gradient of the function $f(x,y)$ is defined as:
-$$\nabla  f(x,y) := (\frac{\partial f}{\ x}(a,b),\frac{\partial f}{\partial y}(a,b))$$
+$$\nabla  f(x,y) = (\frac{\partial f}{\partial x}(a,b),\frac{\partial f}{\partial y}(a,b))$$
 
 It is a vector field where at every point $(a,b)$ it is equal to a vector compose of the partial derivatives in he x and y axis. 
 
-When taking a vector $v$ we can calculate the derivative (velocity/slope) of **of the original function** $f(x,y)$ in the direction of $v$ at point $(a,b)$ using the **dot product** between the ***fucking* gradient** and the *fucking* normalized vector **$v$**:
+When taking a vector $v$ we can calculate the **rate of change** of **of the original function** $f(x,y)$ in the direction of $v$ at point $(a,b)$ using the **dot product** between the ***fucking* gradient** and the *fucking* normalized vector **$v$**:
 $$D_vf(a,b) = \nabla f(a,b) \cdot \frac{v}{|v|}$$
 ## Tangent plane
 To calculate the tangent plate to a function $f(x,y)$ at point $(a,b)$ we can use the following formula:

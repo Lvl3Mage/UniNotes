@@ -16,7 +16,9 @@ For example, let's consider the sequence defined by $a_n = \frac{1}{n}$.
 - It is also **lower bounded by 0**, although the lower bound is not the sequence minimum since it is not part of the sequence.
 ## Convergence
 We can define a sequence as converging to a certain value ($l$) when for any epsilon value selected that is above 0 ($\forall  \mathcal{E} \gt 0$) exists a term in the sequence ($a_n$) such that $|a_n - l| \leq \mathcal{E}$.
+$$\forall \mathcal{E} \in \mathbb{R} \space \exists n_0 \in \mathbb{N} \text{ such that } | a_n - l | \leq \mathcal{E} \text{ if } n \geq n_0$$
 #todo add as mathematical expression
+## Divergence
 We can define a sequence as diverging $a+\infty$ ( or $a-\infty$) if:
 #todo describe in text
 $$\forall M \in \mathbb{R} \space \exists n_0 \in \mathbb{N} \text{ such that } a_n \geq M \text{ if } n \geq n_0$$
