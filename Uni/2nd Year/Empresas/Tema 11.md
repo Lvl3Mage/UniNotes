@@ -1,3 +1,4 @@
+
 # Las 4 P's del marketing mix
 ## Product
 Es lo que proporciona la esperanza de obtener beneficio por la parte de los clientes.
