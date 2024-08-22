@@ -1,4 +1,0 @@
-
-
-## Morning
-[[Coffee]]
