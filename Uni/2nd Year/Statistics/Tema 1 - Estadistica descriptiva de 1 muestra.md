@@ -12,8 +12,8 @@
 
 ## Tipos de variable
 - Cualitativas (categoricas)
-	-  Nominal
-	- Ordinal
+	- Nominal - no ordenada (ie: Iphone, Xiaomi, Samsung)
+	- Ordinal - ordenada (ie: Bien, Neutral, Mal)
 
 - Cuantitativas
 	- Discretas
