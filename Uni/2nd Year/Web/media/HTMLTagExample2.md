@@ -22,7 +22,7 @@ Attribute2 Value ^MEKUOL7C
 
 
 # Embedded files
-180a7f52a5e092e9395f81efe50b60ce96daae05: [[Pasted Image 20240618153845_306.png]]
+180a7f52a5e092e9395f81efe50b60ce96daae05: [[DivExample2.png]]
 
 %%
 # Drawing

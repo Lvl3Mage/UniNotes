@@ -20,7 +20,7 @@ Tag content ^oRlNTJKj
 
 
 # Embedded files
-9166b40a1c3d34318ea84020c6a5d69799ec510d: [[Pasted Image 20240618152041_049.png]]
+9166b40a1c3d34318ea84020c6a5d69799ec510d: [[DivWithText2.png]]
 
 %%
 # Drawing

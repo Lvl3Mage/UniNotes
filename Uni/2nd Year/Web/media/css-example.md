@@ -18,7 +18,7 @@ Styles ^PlwSdYGQ
 
 
 # Embedded files
-a0fb46e664c3285636b31f2e84b08c0ca6dc4967: [[Pasted Image 20240622173949_661.png]]
+a0fb46e664c3285636b31f2e84b08c0ca6dc4967: [[CssExample1.png]]
 
 %%
 # Drawing
