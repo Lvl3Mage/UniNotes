@@ -1,0 +1,1 @@
+A degenerate triangle is a triangle that contains 2 of the same vertex, turning it into what is basically a line. These triangles are automatically discarded but are useful when changing directions when drawing generalized [triangle strips](Triangle%20Strip.md) (i.e. triangle strips that can change direction).

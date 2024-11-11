@@ -1,0 +1,1 @@
+Código compilado. Estructura pasiva. Guardado en un fichero.

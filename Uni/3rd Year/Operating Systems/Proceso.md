@@ -1,0 +1,1 @@
+Es una instancia de un [[Programa]] en ejecución. Requiere estructura activa
