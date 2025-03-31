@@ -1,0 +1,1492 @@
+{
+  "vaultName": "UniNotes",
+  "lastExport": 1743430988160,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Excalidraw/AngularMomentumForces.excalidraw.md",
+    "Excalidraw/CoMOf2Blocks.md",
+    "Excalidraw/Conductor.excalidraw.md",
+    "Excalidraw/Insulator.excalidraw.md",
+    "Excalidraw/Intensity.excalidraw.md",
+    "Excalidraw/NSemiconductor.excalidraw.md",
+    "Excalidraw/Parrallel-axis.excalidraw.md",
+    "Excalidraw/PerfectDiode.excalidraw.md",
+    "Excalidraw/Pipe.excalidraw.md",
+    "Excalidraw/PSemiconductor.excalidraw.md",
+    "Excalidraw/RealDiode.excalidraw.md",
+    "Excalidraw/Resistance.excalidraw.md",
+    "Excalidraw/Transistor.excalidraw.md",
+    "Excalidraw/Voltage.excalidraw.md",
+    "Excalidraw/Work.excalidraw.md",
+    "Uni/1st Year/Physics/media/COMParabolicMotion.png",
+    "Uni/1st Year/Physics/media/PhysUnit4Ex1.png",
+    "Uni/1st Year/Physics/media/RollingMotion.png",
+    "Uni/1st Year/Physics/Physics Unit 4.md",
+    "Uni/1st Year/Physics/Physics Unit 4 Exercises.md",
+    "Uni/1st Year/Physics/Physics Unit 5.md",
+    "Uni/1st Year/TECO/Ohm's Law.md",
+    "Uni/1st Year/TECO/Semiconductors.md",
+    "Uni/1st Year/TECO/TECO.md",
+    "Uni/2nd Year/Algoritmos/media/addToHeap.gif",
+    "Uni/2nd Year/Algoritmos/media/AVLTreeBalance1.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/AVLTreeBalance1.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/AVLTreeBalance2.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/AVLTreeBalance2.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/BinarySearchTree.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/BinarySearchTree.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/BinaryTree.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/BinaryTree.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove1.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove1.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove2.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove2.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3A.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3A.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3B.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3B.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/Bubble-sort.gif",
+    "Uni/2nd Year/Algoritmos/media/leftRotation.gif",
+    "Uni/2nd Year/Algoritmos/media/LinkedList.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/LinkedList.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/MasterTheorem.png",
+    "Uni/2nd Year/Algoritmos/media/maxHeapTopDel.gif",
+    "Uni/2nd Year/Algoritmos/media/Merge-Sort.gif",
+    "Uni/2nd Year/Algoritmos/media/NodeTree.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/NodeTree.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/Queue.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/Queue.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/QueueAdd.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/QueueAdd.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/QueueRemove.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/QueueRemove.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/rightRotation.gif",
+    "Uni/2nd Year/Algoritmos/media/Stack.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/Stack.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/StackAdd.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/StackAdd.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/media/StackRemove.excalidraw.svg",
+    "Uni/2nd Year/Algoritmos/media/StackRemove.excalidraw.md",
+    "Uni/2nd Year/Algoritmos/Master Theorem.md",
+    "Uni/2nd Year/Algoritmos/Merge sort.md",
+    "Uni/2nd Year/Algoritmos/Pointers in C++.md",
+    "Uni/2nd Year/Algoritmos/Unit 1 - Algorithm Analysis.md",
+    "Uni/2nd Year/Algoritmos/Unit 2 - Introduction to node-based data structures.md",
+    "Uni/2nd Year/Algoritmos/Unit 3 - Trees.md",
+    "Uni/2nd Year/Bases de datos/Entregas.md",
+    "Uni/2nd Year/Bases de datos/Null values.md",
+    "Uni/2nd Year/Consolas/Unit 2.md",
+    "Uni/2nd Year/Consolas/Unit 4.md",
+    "Uni/2nd Year/Consolas/Usefull Cache.md",
+    "Uni/2nd Year/Empresas/advergame.png",
+    "Uni/2nd Year/Empresas/Canal.png",
+    "Uni/2nd Year/Empresas/CreditosYPRestamos.png",
+    "Uni/2nd Year/Empresas/EstrategiaCrecimiento.png",
+    "Uni/2nd Year/Empresas/Estrategiademarca.png",
+    "Uni/2nd Year/Empresas/Patrociniodemarcas.png",
+    "Uni/2nd Year/Empresas/SociedadesYCosas.png",
+    "Uni/2nd Year/Empresas/TablaEstrategiaMarketing.png",
+    "Uni/2nd Year/Empresas/Tema 1.md",
+    "Uni/2nd Year/Empresas/Tema 2.md",
+    "Uni/2nd Year/Empresas/Tema 3.md",
+    "Uni/2nd Year/Empresas/Tema 5.md",
+    "Uni/2nd Year/Empresas/Tema 9.md",
+    "Uni/2nd Year/Empresas/Tema 11.md",
+    "Uni/2nd Year/Empresas/Unit 1.md",
+    "Uni/2nd Year/Empresas/Unit 2.md",
+    "Uni/2nd Year/Math II/Info.md",
+    "Uni/2nd Year/Math II/Math notation.md",
+    "Uni/2nd Year/Math II/Mathematical induction.md",
+    "Uni/2nd Year/Math II/Mathematical induction exercises.md",
+    "Uni/2nd Year/Math II/Number sets.md",
+    "Uni/2nd Year/Math II/One variable functions.md",
+    "Uni/2nd Year/Math II/Sequence exercises.md",
+    "Uni/2nd Year/Math II/Sequences.md",
+    "Uni/2nd Year/Math II/Series.md",
+    "Uni/2nd Year/Math II/Taylor Polynomial Exercises.md",
+    "Uni/2nd Year/Math II/Unit 5 - 2 Variable functions.md",
+    "Uni/2nd Year/Math II/Usefull stuff.md",
+    "Uni/2nd Year/Narrativa/Home.md",
+    "Uni/2nd Year/Narrativa/Tema 1.md",
+    "Uni/2nd Year/Statistics/Descrete distributions/Bernoulli Distribution.md",
+    "Uni/2nd Year/Statistics/Descrete distributions/Binomial Distribution.md",
+    "Uni/2nd Year/Statistics/Descrete distributions/Hypergeometric Distribution.md",
+    "Uni/2nd Year/Statistics/Descrete distributions/Multinomial Distribution.md",
+    "Uni/2nd Year/Statistics/Descrete distributions/N Choose k.md",
+    "Uni/2nd Year/Statistics/Descrete distributions/Negative Binomial Distribution.md",
+    "Uni/2nd Year/Statistics/Descrete distributions/Poisson Distribution.md",
+    "Uni/2nd Year/Statistics/media/DistribucionFrecAgrupadas.png",
+    "Uni/2nd Year/Statistics/media/MedidasCaracteristicas.png",
+    "Uni/2nd Year/Statistics/Optimizacion.md",
+    "Uni/2nd Year/Statistics/Tema 1 - Estadistica descriptiva de 1 muestra.md",
+    "Uni/2nd Year/Statistics/Tema 2 - Estadistica de varias variables.md",
+    "Uni/2nd Year/Web/media/css-example.svg",
+    "Uni/2nd Year/Web/media/css-example.png",
+    "Uni/2nd Year/Web/media/css-example.md",
+    "Uni/2nd Year/Web/media/CssExample1.png",
+    "Uni/2nd Year/Web/media/DivExample1.png",
+    "Uni/2nd Year/Web/media/DivExample2.png",
+    "Uni/2nd Year/Web/media/DivWithText.png",
+    "Uni/2nd Year/Web/media/DivWithText2.png",
+    "Uni/2nd Year/Web/media/HTMLTagExample1.svg",
+    "Uni/2nd Year/Web/media/HTMLTagExample1.png",
+    "Uni/2nd Year/Web/media/HTMLTagExample1.md",
+    "Uni/2nd Year/Web/media/HtmlTagExample2.png",
+    "Uni/2nd Year/Web/media/HTMLTagExample2.svg",
+    "Uni/2nd Year/Web/media/HTMLTagExample2.md",
+    "Uni/2nd Year/Web/media/HTMLTagSelfClosing.png",
+    "Uni/2nd Year/Web/CSS.md",
+    "Uni/2nd Year/Web/HTML.md",
+    "Uni/2nd Year/Web/JS.md",
+    "Uni/3rd Year/Audiovisuales/TEMA 1 - La Producción Radiofónica.md",
+    "Uni/3rd Year/Audiovisuales/TEMA 2 - Elementos de la Producción Radiofónica.md",
+    "Uni/3rd Year/Audiovisuales/TEMA 3 - Las Fases de la Producción Radiofónica.md",
+    "Uni/3rd Year/Audiovisuales/TEMA 4 - Iniciación a la Producción en Televisión.md",
+    "Uni/3rd Year/Audiovisuales/TEMA 5 - El Ciclo de la Producción Audiovisual en Televisión.md",
+    "Uni/3rd Year/Graphics Programming/media/AlphaMapping.png",
+    "Uni/3rd Year/Graphics Programming/media/BoxFiltering.png",
+    "Uni/3rd Year/Graphics Programming/media/ExampleCubeMap.png",
+    "Uni/3rd Year/Graphics Programming/media/FilteringTypes.png",
+    "Uni/3rd Year/Graphics Programming/media/MipmapComparison.png",
+    "Uni/3rd Year/Graphics Programming/media/Mipmapping.png",
+    "Uni/3rd Year/Graphics Programming/media/NormalMap.png",
+    "Uni/3rd Year/Graphics Programming/media/Normals.gif",
+    "Uni/3rd Year/Graphics Programming/media/Texcoords.png",
+    "Uni/3rd Year/Graphics Programming/media/Triangle_Strip.svg",
+    "Uni/3rd Year/Graphics Programming/media/TriangleStripMultiple.png",
+    "Uni/3rd Year/Graphics Programming/media/Trilinear.png",
+    "Uni/3rd Year/Graphics Programming/3D Textures.md",
+    "Uni/3rd Year/Graphics Programming/Alpha Mapping.md",
+    "Uni/3rd Year/Graphics Programming/Cube Mapping.md",
+    "Uni/3rd Year/Graphics Programming/Degenerate triangle.md",
+    "Uni/3rd Year/Graphics Programming/Displacement Mapping.md",
+    "Uni/3rd Year/Graphics Programming/Illumination Models and Shading Techniques.md",
+    "Uni/3rd Year/Graphics Programming/Normal Mapping.md",
+    "Uni/3rd Year/Graphics Programming/Texture Filtering.md",
+    "Uni/3rd Year/Graphics Programming/Triangle Strip.md",
+    "Uni/3rd Year/Graphics Programming/UV Mapping.md",
+    "Uni/3rd Year/Operating Systems/Contexto del Proceso.md",
+    "Uni/3rd Year/Operating Systems/fork().md",
+    "Uni/3rd Year/Operating Systems/PCB.md",
+    "Uni/3rd Year/Operating Systems/Proceso.md",
+    "Uni/3rd Year/Operating Systems/Process Adoption.md",
+    "Uni/3rd Year/Operating Systems/Process ID.md",
+    "Uni/3rd Year/Operating Systems/Programa.md",
+    "Uni/3rd Year/Operating Systems/wait().md",
+    "Uni/3rd Year/Software Engineering/Intro.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "Excalidraw/AngularMomentumForces.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 10020,
+      "exportedPath": "Excalidraw/AngularMomentumForces.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/CoMOf2Blocks.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 5361,
+      "exportedPath": "Excalidraw/CoMOf2Blocks.html",
+      "dependencies": []
+    },
+    "Excalidraw/Conductor.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 186007,
+      "exportedPath": "Excalidraw/Conductor.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/Insulator.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 241776,
+      "exportedPath": "Excalidraw/Insulator.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/Intensity.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 83258,
+      "exportedPath": "Excalidraw/Intensity.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/NSemiconductor.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 209330,
+      "exportedPath": "Excalidraw/NSemiconductor.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/Parrallel-axis.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 5978,
+      "exportedPath": "Excalidraw/Parrallel-axis.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/PerfectDiode.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 203628,
+      "exportedPath": "Excalidraw/PerfectDiode.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/Pipe.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 53579,
+      "exportedPath": "Excalidraw/Pipe.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/PSemiconductor.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 264087,
+      "exportedPath": "Excalidraw/PSemiconductor.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/RealDiode.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 182224,
+      "exportedPath": "Excalidraw/RealDiode.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/Resistance.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 81560,
+      "exportedPath": "Excalidraw/Resistance.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/Transistor.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 427525,
+      "exportedPath": "Excalidraw/Transistor.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/Voltage.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 93800,
+      "exportedPath": "Excalidraw/Voltage.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/Work.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 8158,
+      "exportedPath": "Excalidraw/Work.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/1st Year/Physics/media/COMParabolicMotion.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 56566,
+      "exportedPath": "Uni/1st Year/Physics/media/COMParabolicMotion.png",
+      "dependencies": []
+    },
+    "Uni/1st Year/Physics/media/PhysUnit4Ex1.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 9058,
+      "exportedPath": "Uni/1st Year/Physics/media/PhysUnit4Ex1.png",
+      "dependencies": []
+    },
+    "Uni/1st Year/Physics/media/RollingMotion.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 199707,
+      "exportedPath": "Uni/1st Year/Physics/media/RollingMotion.png",
+      "dependencies": []
+    },
+    "Uni/1st Year/Physics/Physics Unit 4.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 3894,
+      "exportedPath": "Uni/1st Year/Physics/Physics Unit 4.html",
+      "dependencies": []
+    },
+    "Uni/1st Year/Physics/Physics Unit 4 Exercises.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1448,
+      "exportedPath": "Uni/1st Year/Physics/Physics Unit 4 Exercises.html",
+      "dependencies": []
+    },
+    "Uni/1st Year/Physics/Physics Unit 5.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 2559,
+      "exportedPath": "Uni/1st Year/Physics/Physics Unit 5.html",
+      "dependencies": []
+    },
+    "Uni/1st Year/TECO/Ohm's Law.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 703,
+      "exportedPath": "Uni/1st Year/TECO/Ohm's Law.html",
+      "dependencies": []
+    },
+    "Uni/1st Year/TECO/Semiconductors.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 5111,
+      "exportedPath": "Uni/1st Year/TECO/Semiconductors.html",
+      "dependencies": []
+    },
+    "Uni/1st Year/TECO/TECO.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 77,
+      "exportedPath": "Uni/1st Year/TECO/TECO.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/addToHeap.gif": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 195681,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/addToHeap.gif",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/AVLTreeBalance1.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 120245,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/AVLTreeBalance1.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/AVLTreeBalance1.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 71664,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/AVLTreeBalance1.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/AVLTreeBalance2.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 98304,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/AVLTreeBalance2.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/AVLTreeBalance2.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 32854,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/AVLTreeBalance2.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinarySearchTree.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 114704,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinarySearchTree.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinarySearchTree.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 56053,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinarySearchTree.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinaryTree.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 100821,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinaryTree.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinaryTree.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 32232,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinaryTree.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove1.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 101811,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove1.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove1.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 33806,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove1.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove2.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 104807,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove2.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove2.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 39195,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove2.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3A.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 124294,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3A.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3A.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 70891,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3A.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3B.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 123918,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3B.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3B.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 72644,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/BinaryTreeRemove3B.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/Bubble-sort.gif": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 242023,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/Bubble-sort.gif",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/leftRotation.gif": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 325642,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/leftRotation.gif",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/LinkedList.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 96875,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/LinkedList.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/LinkedList.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 21144,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/LinkedList.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/MasterTheorem.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 8397,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/MasterTheorem.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/maxHeapTopDel.gif": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 107164,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/maxHeapTopDel.gif",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/Merge-Sort.gif": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 94355,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/Merge-Sort.gif",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/NodeTree.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 102791,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/NodeTree.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/NodeTree.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 31605,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/NodeTree.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/Queue.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 99495,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/Queue.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/Queue.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 25456,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/Queue.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/QueueAdd.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 102299,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/QueueAdd.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/QueueAdd.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 36832,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/QueueAdd.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/QueueRemove.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 97160,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/QueueRemove.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/QueueRemove.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 34307,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/QueueRemove.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/rightRotation.gif": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 323277,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/rightRotation.gif",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/Stack.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 24368,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/Stack.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/Stack.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 96969,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/Stack.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/StackAdd.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 95617,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/StackAdd.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/StackAdd.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 33049,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/StackAdd.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/StackRemove.excalidraw.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 95516,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/StackRemove.excalidraw.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/media/StackRemove.excalidraw.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 32498,
+      "exportedPath": "Uni/2nd Year/Algoritmos/media/StackRemove.excalidraw.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/Master Theorem.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 369,
+      "exportedPath": "Uni/2nd Year/Algoritmos/Master Theorem.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/Merge sort.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 470,
+      "exportedPath": "Uni/2nd Year/Algoritmos/Merge sort.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/Pointers in C++.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 2308,
+      "exportedPath": "Uni/2nd Year/Algoritmos/Pointers in C++.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/Unit 1 - Algorithm Analysis.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 5743,
+      "exportedPath": "Uni/2nd Year/Algoritmos/Unit 1 - Algorithm Analysis.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/Unit 2 - Introduction to node-based data structures.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 3882,
+      "exportedPath": "Uni/2nd Year/Algoritmos/Unit 2 - Introduction to node-based data structures.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Algoritmos/Unit 3 - Trees.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 10143,
+      "exportedPath": "Uni/2nd Year/Algoritmos/Unit 3 - Trees.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Bases de datos/Entregas.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 237,
+      "exportedPath": "Uni/2nd Year/Bases de datos/Entregas.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Bases de datos/Null values.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 150,
+      "exportedPath": "Uni/2nd Year/Bases de datos/Null values.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Consolas/Unit 2.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 0,
+      "exportedPath": "Uni/2nd Year/Consolas/Unit 2.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Consolas/Unit 4.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 0,
+      "exportedPath": "Uni/2nd Year/Consolas/Unit 4.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Consolas/Usefull Cache.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 64,
+      "exportedPath": "Uni/2nd Year/Consolas/Usefull Cache.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/advergame.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 129807,
+      "exportedPath": "Uni/2nd Year/Empresas/advergame.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/Canal.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 112513,
+      "exportedPath": "Uni/2nd Year/Empresas/Canal.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/CreditosYPRestamos.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 223259,
+      "exportedPath": "Uni/2nd Year/Empresas/CreditosYPRestamos.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/EstrategiaCrecimiento.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 160159,
+      "exportedPath": "Uni/2nd Year/Empresas/EstrategiaCrecimiento.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/Estrategiademarca.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 72415,
+      "exportedPath": "Uni/2nd Year/Empresas/Estrategiademarca.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/Patrociniodemarcas.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 449201,
+      "exportedPath": "Uni/2nd Year/Empresas/Patrociniodemarcas.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/SociedadesYCosas.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 153321,
+      "exportedPath": "Uni/2nd Year/Empresas/SociedadesYCosas.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/TablaEstrategiaMarketing.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 54293,
+      "exportedPath": "Uni/2nd Year/Empresas/TablaEstrategiaMarketing.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/Tema 1.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 9421,
+      "exportedPath": "Uni/2nd Year/Empresas/Tema 1.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/Tema 2.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1550,
+      "exportedPath": "Uni/2nd Year/Empresas/Tema 2.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/Tema 3.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1879,
+      "exportedPath": "Uni/2nd Year/Empresas/Tema 3.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/Tema 5.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1725,
+      "exportedPath": "Uni/2nd Year/Empresas/Tema 5.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/Tema 9.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 3598,
+      "exportedPath": "Uni/2nd Year/Empresas/Tema 9.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/Tema 11.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 7807,
+      "exportedPath": "Uni/2nd Year/Empresas/Tema 11.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/Unit 1.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 2174,
+      "exportedPath": "Uni/2nd Year/Empresas/Unit 1.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Empresas/Unit 2.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 0,
+      "exportedPath": "Uni/2nd Year/Empresas/Unit 2.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/Info.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 30,
+      "exportedPath": "Uni/2nd Year/Math II/Info.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/Math notation.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 66,
+      "exportedPath": "Uni/2nd Year/Math II/Math notation.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/Mathematical induction.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1943,
+      "exportedPath": "Uni/2nd Year/Math II/Mathematical induction.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/Mathematical induction exercises.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 2956,
+      "exportedPath": "Uni/2nd Year/Math II/Mathematical induction exercises.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/Number sets.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 944,
+      "exportedPath": "Uni/2nd Year/Math II/Number sets.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/One variable functions.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 3397,
+      "exportedPath": "Uni/2nd Year/Math II/One variable functions.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/Sequence exercises.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 3889,
+      "exportedPath": "Uni/2nd Year/Math II/Sequence exercises.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/Sequences.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 4790,
+      "exportedPath": "Uni/2nd Year/Math II/Sequences.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/Series.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 6270,
+      "exportedPath": "Uni/2nd Year/Math II/Series.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/Taylor Polynomial Exercises.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 314,
+      "exportedPath": "Uni/2nd Year/Math II/Taylor Polynomial Exercises.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/Unit 5 - 2 Variable functions.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 2806,
+      "exportedPath": "Uni/2nd Year/Math II/Unit 5 - 2 Variable functions.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Math II/Usefull stuff.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 490,
+      "exportedPath": "Uni/2nd Year/Math II/Usefull stuff.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Narrativa/Home.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 238,
+      "exportedPath": "Uni/2nd Year/Narrativa/Home.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Narrativa/Tema 1.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 371,
+      "exportedPath": "Uni/2nd Year/Narrativa/Tema 1.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/Descrete distributions/Bernoulli Distribution.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 717,
+      "exportedPath": "Uni/2nd Year/Statistics/Descrete distributions/Bernoulli Distribution.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/Descrete distributions/Binomial Distribution.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1176,
+      "exportedPath": "Uni/2nd Year/Statistics/Descrete distributions/Binomial Distribution.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/Descrete distributions/Hypergeometric Distribution.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1264,
+      "exportedPath": "Uni/2nd Year/Statistics/Descrete distributions/Hypergeometric Distribution.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/Descrete distributions/Multinomial Distribution.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1425,
+      "exportedPath": "Uni/2nd Year/Statistics/Descrete distributions/Multinomial Distribution.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/Descrete distributions/N Choose k.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 723,
+      "exportedPath": "Uni/2nd Year/Statistics/Descrete distributions/N Choose k.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/Descrete distributions/Negative Binomial Distribution.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1278,
+      "exportedPath": "Uni/2nd Year/Statistics/Descrete distributions/Negative Binomial Distribution.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/Descrete distributions/Poisson Distribution.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1277,
+      "exportedPath": "Uni/2nd Year/Statistics/Descrete distributions/Poisson Distribution.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/media/DistribucionFrecAgrupadas.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 209340,
+      "exportedPath": "Uni/2nd Year/Statistics/media/DistribucionFrecAgrupadas.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/media/MedidasCaracteristicas.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 176211,
+      "exportedPath": "Uni/2nd Year/Statistics/media/MedidasCaracteristicas.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/Optimizacion.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 894,
+      "exportedPath": "Uni/2nd Year/Statistics/Optimizacion.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/Tema 1 - Estadistica descriptiva de 1 muestra.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 2717,
+      "exportedPath": "Uni/2nd Year/Statistics/Tema 1 - Estadistica descriptiva de 1 muestra.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Statistics/Tema 2 - Estadistica de varias variables.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 0,
+      "exportedPath": "Uni/2nd Year/Statistics/Tema 2 - Estadistica de varias variables.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/css-example.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 143317,
+      "exportedPath": "Uni/2nd Year/Web/media/css-example.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/css-example.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 16580,
+      "exportedPath": "Uni/2nd Year/Web/media/css-example.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/css-example.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 7458,
+      "exportedPath": "Uni/2nd Year/Web/media/css-example.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/CssExample1.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 16580,
+      "exportedPath": "Uni/2nd Year/Web/media/CssExample1.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/DivExample1.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 18167,
+      "exportedPath": "Uni/2nd Year/Web/media/DivExample1.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/DivExample2.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 25723,
+      "exportedPath": "Uni/2nd Year/Web/media/DivExample2.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/DivWithText.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 23407,
+      "exportedPath": "Uni/2nd Year/Web/media/DivWithText.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/DivWithText2.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 15660,
+      "exportedPath": "Uni/2nd Year/Web/media/DivWithText2.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/HTMLTagExample1.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 144207,
+      "exportedPath": "Uni/2nd Year/Web/media/HTMLTagExample1.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/HTMLTagExample1.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 15660,
+      "exportedPath": "Uni/2nd Year/Web/media/HTMLTagExample1.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/HTMLTagExample1.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 12829,
+      "exportedPath": "Uni/2nd Year/Web/media/HTMLTagExample1.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/HtmlTagExample2.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 25723,
+      "exportedPath": "Uni/2nd Year/Web/media/HtmlTagExample2.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/HTMLTagExample2.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 159794,
+      "exportedPath": "Uni/2nd Year/Web/media/HTMLTagExample2.svg",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/HTMLTagExample2.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 12454,
+      "exportedPath": "Uni/2nd Year/Web/media/HTMLTagExample2.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/media/HTMLTagSelfClosing.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 15471,
+      "exportedPath": "Uni/2nd Year/Web/media/HTMLTagSelfClosing.png",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/CSS.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 12655,
+      "exportedPath": "Uni/2nd Year/Web/CSS.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/HTML.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 7310,
+      "exportedPath": "Uni/2nd Year/Web/HTML.html",
+      "dependencies": []
+    },
+    "Uni/2nd Year/Web/JS.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 4203,
+      "exportedPath": "Uni/2nd Year/Web/JS.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Audiovisuales/TEMA 1 - La Producción Radiofónica.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 4445,
+      "exportedPath": "Uni/3rd Year/Audiovisuales/TEMA 1 - La Producción Radiofónica.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Audiovisuales/TEMA 2 - Elementos de la Producción Radiofónica.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 14054,
+      "exportedPath": "Uni/3rd Year/Audiovisuales/TEMA 2 - Elementos de la Producción Radiofónica.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Audiovisuales/TEMA 3 - Las Fases de la Producción Radiofónica.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 6145,
+      "exportedPath": "Uni/3rd Year/Audiovisuales/TEMA 3 - Las Fases de la Producción Radiofónica.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Audiovisuales/TEMA 4 - Iniciación a la Producción en Televisión.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 10882,
+      "exportedPath": "Uni/3rd Year/Audiovisuales/TEMA 4 - Iniciación a la Producción en Televisión.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Audiovisuales/TEMA 5 - El Ciclo de la Producción Audiovisual en Televisión.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 7379,
+      "exportedPath": "Uni/3rd Year/Audiovisuales/TEMA 5 - El Ciclo de la Producción Audiovisual en Televisión.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/AlphaMapping.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 172673,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/AlphaMapping.png",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/BoxFiltering.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 14516,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/BoxFiltering.png",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/ExampleCubeMap.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 493578,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/ExampleCubeMap.png",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/FilteringTypes.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 7191,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/FilteringTypes.png",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/MipmapComparison.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 886982,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/MipmapComparison.png",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/Mipmapping.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 89964,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/Mipmapping.png",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/NormalMap.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 5538556,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/NormalMap.png",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/Normals.gif": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 168607,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/Normals.gif",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/Texcoords.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 54649,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/Texcoords.png",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/Triangle_Strip.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 680,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/Triangle_Strip.svg",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/TriangleStripMultiple.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 32548,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/TriangleStripMultiple.png",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/media/Trilinear.png": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1342505,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/media/Trilinear.png",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/3D Textures.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 543,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/3D Textures.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/Alpha Mapping.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 487,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/Alpha Mapping.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/Cube Mapping.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 777,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/Cube Mapping.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/Degenerate triangle.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1110,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/Degenerate triangle.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/Displacement Mapping.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 540,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/Displacement Mapping.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/Illumination Models and Shading Techniques.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 6601,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/Illumination Models and Shading Techniques.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/Normal Mapping.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 784,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/Normal Mapping.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/Texture Filtering.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1682,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/Texture Filtering.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/Triangle Strip.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 112,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/Triangle Strip.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Graphics Programming/UV Mapping.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1283,
+      "exportedPath": "Uni/3rd Year/Graphics Programming/UV Mapping.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Operating Systems/Contexto del Proceso.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 283,
+      "exportedPath": "Uni/3rd Year/Operating Systems/Contexto del Proceso.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Operating Systems/fork().md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 553,
+      "exportedPath": "Uni/3rd Year/Operating Systems/fork().html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Operating Systems/PCB.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 259,
+      "exportedPath": "Uni/3rd Year/Operating Systems/PCB.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Operating Systems/Proceso.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 77,
+      "exportedPath": "Uni/3rd Year/Operating Systems/Proceso.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Operating Systems/Process Adoption.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 111,
+      "exportedPath": "Uni/3rd Year/Operating Systems/Process Adoption.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Operating Systems/Process ID.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 798,
+      "exportedPath": "Uni/3rd Year/Operating Systems/Process ID.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Operating Systems/Programa.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 61,
+      "exportedPath": "Uni/3rd Year/Operating Systems/Programa.html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Operating Systems/wait().md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1536,
+      "exportedPath": "Uni/3rd Year/Operating Systems/wait().html",
+      "dependencies": []
+    },
+    "Uni/3rd Year/Software Engineering/Intro.md": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 31,
+      "exportedPath": "Uni/3rd Year/Software Engineering/Intro.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1743430988160,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}
