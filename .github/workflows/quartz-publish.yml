@@ -32,8 +32,8 @@ jobs:
         run: |
           ls
           chmod +x obsidian-export
-          mkdir ./content/notes -p
-          ./obsidian-export raw_notes ./content/notes --hard-linebreaks --no-recursive-embeds --embed-info --hugo-frontmatter --retain-wikilinks --flat
+          mkdir ./uni -p
+          ./obsidian-export raw_notes ./uni --hard-linebreaks --no-recursive-embeds --embed-info --hugo-frontmatter --retain-wikilinks --flat
         continue-on-error: true
 
       - name: Housekeeping
