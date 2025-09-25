@@ -67,15 +67,8 @@ In the case of the algorithm D and E the growth curves are $2n$ and $3n$ respect
 > Any multiplicative constants should be discarded when writing Big O notation. The catch is this also incudes things like bases of logarithms.
 > 
 > So for instance the big O of $log_2 n$ and $log_e n$ is $O(\log{n})$ because they differ by a constant factor $\frac{1}{log \space 2}$ which is discarded. 
-> 
-> Below is and example of the 2 logarithms graphed and it's clearly visible that one is just a scaled up version of the other
-> ```desmos-graph 
-> left=-3; right=100;
-> bottom=-3;
-> ---
-> y=\log{x}|dashed|green|x>1
-> y=(\log{x})/(\log{2})|dashed|red|x>1
-> ```
+
+
 
 > [!tldr] TLDR
 > Big O notation studies how algorithms grow when the amount of elements they operate on (n) grows. 
@@ -117,9 +110,7 @@ This algorithm runs through all the numbers given and adds 1 to all for each eve
 
 The best and worst case scenarios would differ since if all the numbers given are odd the algorithm would only run through the elements **once**. However if all the numbers are even the algorithm would run through all elements **for every number given**. 
 
-**Thus the big O notation in the best case scenario would be $O(n)$ and in the worst case scenario $O(n^2)$**
-#todo Add section about different notations of different algorithms and talk about sorting algos
-
+**Thus the big O notation in the best case scenario would be $O(n)$ and in the worst case scenario $O(n^2)$
 ## Sorting algorithms
 Sorting Algorithms have been proven to be of $O(n\log{n})$ in the **worst case scenario**. It is mathematically impossible for a sorting algorithm to sort an array faster than $O(n\log{n})$ as a worst case.
 
